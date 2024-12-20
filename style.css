@@ -3,6 +3,7 @@ body{
     padding: 0;
 
     .box{
+        width: 60%;
         display: flex;
         justify-content: space-evenly;
         .cutChoice{
@@ -34,7 +35,7 @@ body{
 
             .colorBar{
                 display: flex;
-                justify-content: space-evenly;
+                justify-content: space-between;
 
                 .colorBox{
                     width: 80px;
