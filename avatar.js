@@ -1,18 +1,18 @@
-// Initialisation de variable de type Constant  qui ont pour valeur la Sélection des éléments cliquable .
+// Initialisation Variable de type Const avec pour Valeur Sélection Eléments Cliquable .
 const arrowLeft = document.querySelector("#arrowLeft");
 const arrowRight = document.querySelector("#arrowRight");
 const black = document.querySelector("#color1");
 const blond = document.querySelector("#color2");
 const turquoise = document.querySelector("#color3");
 
-// Initialisation de variable de type Constant  qui ont pour valeur la Sélection de l'élément modifiable soit la coupe de cheveux.
+// Initialisation Variable de type Constant avec pour Valeur Sélection Elément Modifiable.
 const hairCut = document.querySelector("#haircut");
 
-// Initialisation des deux variables qui serviront à modifier l'adresse pour l'attribut src de la coupe de cheveux.
+// Initialisation Deux Variables pour modification nom Fichier .png Coupe de cheveux.
 var color = "turquoise";
 var haircut = 1;
 
-//Affectation des variables par défault pour refléter l'affichage de base de l'exemple.
+//Affectation Variables par Défault.
 arrowLeft.style.opacity = 0.6;
 arrowRight.style.opacity = 1;
 hairCut.setAttribute("src", `./img/hair-${color}-${haircut}.png`);
