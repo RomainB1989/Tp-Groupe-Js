@@ -1,6 +1,6 @@
 // Tp-Groupe-JS
 
-// Lassanna
+// Lassana
 // Wilfried
 // Romain
 
