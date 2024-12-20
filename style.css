@@ -42,15 +42,15 @@ body{
                 }
 
                 #color1{
-                    background-color: black;
+                    background-color: rgb(60, 60, 59);
                 }
 
                 #color2{
-                    background-color: gold;
+                    background-color: rgb(249, 178, 51);
                 }
 
                 #color3{
-                    background-color: turquoise;
+                    background-color: rgb(0, 161, 154);;
                 }
             }
         }
