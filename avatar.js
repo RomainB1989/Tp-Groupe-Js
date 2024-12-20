@@ -1,3 +1,10 @@
+// Tp-Groupe-JS
+
+// Lassanna
+// Wilfried
+// Romain
+
+
 // Initialisation Variable de type Const avec pour Valeur Sélection Eléments Cliquable .
 const arrowLeft = document.querySelector("#arrowLeft");
 const arrowRight = document.querySelector("#arrowRight");
